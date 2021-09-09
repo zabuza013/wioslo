@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T06:44:01.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.1.1" etag="FSzQKVvZxPN6QKvfVAcL" type="github"><diagram id="s28Ke2D7VbogQr7Y0fA9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-09T06:58:18.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="OoM8f4GBbsnMdLhw_UOi" version="15.1.1" type="github">
+  <diagram id="s28Ke2D7VbogQr7Y0fA9" name="Page-1">
+    <mxGraphModel dx="768" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="170" width="706" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-2" value="planowanie fabuły" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-3" value="planowanie mapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-4" value="planowanie postaci" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-5" value="planowanie mobów i bossów" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-7" value="planowanie questów" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-8" value="planowanie logo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-9" value="planowanie poziomu trudnosci" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-10" value="03/03/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-11" value="04/03/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-12" value="05/03/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-13" value="06/03/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-14" value="07/03/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-15" value="08/03/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FOQH44iFYXR7YQ4rlIlQ-16" value="09/03/2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
